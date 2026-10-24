@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern UI Colors -->
+    <color name="primaryColor">#00E676</color> <!-- Neon Green -->
+    <color name="primaryDarkColor">#00C853</color>
+    <color name="secondaryColor">#2979FF</color> <!-- Bright Blue -->
+    <color name="backgroundColor">#121212</color> <!-- Deep Dark -->
+    <color name="surfaceColor">#1E1E1E</color> <!-- Slightly lighter dark for cards -->
+    <color name="errorColor">#FF1744</color> <!-- Red for SOS -->
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#AAAAAA</color>
+</resources>

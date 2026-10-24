@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930946898227",
+    "project_id": "netra-ai-53477",
+    "storage_bucket": "netra-ai-53477.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930946898227:android:e0f6e1e304c9d61c270646",
+        "android_client_info": {
+          "package_name": "com.example.netra_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDPDT5uH43sXjUelbBWBToCXSliiTkUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
